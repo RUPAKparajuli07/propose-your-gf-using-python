@@ -53,6 +53,3 @@ Feel free to use this code to create your own heartfelt messages and share the l
 
 ![Turtle Graphics Love](your_image_url_here)
 
-```
-
-Remember to replace `"your-username"` and `"your_image_url_here"` with your actual GitHub username and an image URL, respectively. Additionally, you can include a screenshot or GIF of the Turtle Graphics output to showcase the visual representation in your README file.
